@@ -1,16 +1,7 @@
-# flutter_training_app
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bài tập về nhà:
+- Vẽ UI giống với hình bên dưới.
+<img src="https://drive.google.com/file/d/1LWBhCUkmNFitWakKwk_RigfBxNjBFDhL/view?usp=sharing" alt="" />
+- Một số widget khác bên ngoài mấy cái hôm qua có thể dùng trong bài tập này: Padding, Icon, ClipRRect, Space, SizedBox.
+- Phần code của ngày hôm qua + 1 example để mn có thể tham khảo cho bài tập về nhà (nhánh example_widget): 
+   https://github.com/trantan97/flutter_training/tree/example_widget
+   <img src="https://drive.google.com/file/d/109V1wm92p9grPAJPWcWQ1txeproJuYLS/view?usp=sharing" alt="" /> 
