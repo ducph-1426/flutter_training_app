@@ -35,7 +35,7 @@ class _MyHomePageState extends State<MyHomePage> {
         title,
         style: TextStyle(
           fontWeight: FontWeight.bold,
-          fontSize: 30,
+          fontSize: 20,
         )
     );
   }
